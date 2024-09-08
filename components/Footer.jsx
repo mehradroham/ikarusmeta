@@ -39,7 +39,7 @@ const Footer = () => (
             METAVERUS
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-         Copyright @ {new Date().getFullYear()} <Link href="https://www.metatechpersia.ir">IKARUS</Link>
+         Copyright @ {new Date().getFullYear()} <Link href="https://www.ikarus-web.com/">IKARUS</Link>
           </p>
 
           <div className="flex gap-4">
